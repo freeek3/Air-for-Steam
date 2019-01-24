@@ -1,3 +1,8 @@
+# Install directly in skins:
+`git clone https://github.com/freeek3/Air-for-Steam.git --branch settings` in Steam/skins folder
+
+
+
 # Air for Steam / An elegant and customizable skin for Steam
 
 Air is a visual redesign of the Steam client that embraces Google's Material Design language to showcase consistent beauty through minimal design.
