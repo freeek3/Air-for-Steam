@@ -1,5 +1,5 @@
 # Install directly in skins:
-`git clone https://github.com/freeek3/Air-for-Steam.git --branch settings` in Steam/skins folder
+execute `git clone https://github.com/freeek3/Air-for-Steam.git --branch settings` in Steam/skins folder
 
 
 
